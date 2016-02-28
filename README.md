@@ -1,3 +1,3 @@
-= Testing of Spring Boot =
+# Testing of Spring Boot #
 
 A simple project to test spring boot.
